@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dscglbajaj.github.io/coronavirus_chatbot/sitemap.xml
